@@ -1,0 +1,1 @@
+Use: python sub_3DD5E4.py <hash> <wordlist>
